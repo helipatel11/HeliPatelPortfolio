@@ -23,7 +23,7 @@ import HRS3 from "../public/HRS3.png"
 import HRS4 from "../public/HRS4.png"
 import birdy from "../public/Birdy_bot.png"
 // import pknn from "../public/PKNN.png"
-import sec1 from "../public/sec1.png"
+// import sec1 from "../public/sec1.png"
 // import sec2 from "../public/sec2.png"
 // import todo from "../public/todo.png"
 import todo1 from "../public/todo1.png"
@@ -266,7 +266,7 @@ export default function Home() {
                 width={"10"}
                 height={"5"}
                 layout="responsive"
-                src={sec1}
+                src={"https://drive.google.com/uc?export=view&id=1jZErrybdQp6YiL989c4zDmHyZR8ph0cV"}
               />
             </div>
 
@@ -326,12 +326,7 @@ export default function Home() {
                 src={birdy}
               />
             </div>
-
-
           </div>
-
-
-
         </section>
       </main>
     </div >
