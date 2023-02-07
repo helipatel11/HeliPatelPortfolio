@@ -85,7 +85,7 @@ Additionally, I am proficient in databases such as Relational, NoSQL, PostgreSQL
               <a href="mailto:helialpeshkumarpatel@cmail.carleton.ca"> <AiFillMail /></a>
 
             </div>
-            <div className="mx-auto rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96 margin: auto">
+            <div className="mx-auto rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96 flex justify-center">
               <Image src="/me.jpg" layout="fill" objectFit="cover" />
             </div>
           </div>
