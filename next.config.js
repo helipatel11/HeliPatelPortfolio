@@ -5,7 +5,7 @@ const nextConfig = {
   images: {
     loader: "akamai",
     path: "",
-  }
+  },
   basePath: "/HeliPatelPortfolio",
   assetPrefix: "/HeliPatelPortfolio",
 }
