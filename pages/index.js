@@ -16,18 +16,18 @@ import web from "../public/Online-Website-No-Background.png"
 import Python from "../public/Python_Png_Egg.png"
 import Machine_learning from "../public/ML_pngegg.png"
 
-import Salary2 from "../public/Salary2.png"
-import HRS1 from "../public/HRS1.png"
-import HRS2 from "../public/HRS2.png"
-import HRS3 from "../public/HRS3.png"
-import HRS4 from "../public/HRS4.png"
-import birdy from "../public/Birdy_bot.png"
+// import Salary2 from "../public/Salary2.png"
+// import HRS1 from "../public/HRS1.png"
+// import HRS2 from "../public/HRS2.png"
+// import HRS3 from "../public/HRS3.png"
+// import HRS4 from "../public/HRS4.png"
+// import birdy from "../public/Birdy_bot.png"
 // import pknn from "../public/PKNN.png"
 // import sec1 from "../public/sec1.png"
 // import sec2 from "../public/sec2.png"
 // import todo from "../public/todo.png"
-import todo1 from "../public/todo1.png"
-import Birdy1 from "../public/Birdy1.png"
+// import todo1 from "../public/todo1.png"
+// import Birdy1 from "../public/Birdy1.png"
 
 
 
@@ -191,7 +191,7 @@ export default function Home() {
                 width={"25"}
                 height={"17"}
                 layout="responsive"
-                src={HRS2}
+                src="/HRS2.png"
               />
             </div>
             {/* <div className="basis-1/3 flex-1">
@@ -201,7 +201,7 @@ export default function Home() {
                 width={"50%"}
                 height={"50%"}
                 layout="responsive"
-                src={Salary2}
+                src="/Salary2.png"
               />
             </div> */}
             <div className="basis-1/3 flex-1">
@@ -211,7 +211,7 @@ export default function Home() {
                 width={"25"}
                 height={"17"}
                 layout="responsive"
-                src={HRS4}
+                src="/HRS4.png"
               />
             </div>
             <div className="basis-1/3 flex-1">
@@ -221,7 +221,7 @@ export default function Home() {
                 width={"25"}
                 height={"17"}
                 layout="responsive"
-                src={HRS3}
+                src="/HRS3.png"
               />
             </div>
             {/* <div className="basis-1/3 flex-1">
@@ -266,7 +266,7 @@ export default function Home() {
                 width={"10"}
                 height={"5"}
                 layout="responsive"
-                src="https://drive.google.com/thumbnail?id=1jZErrybdQp6YiL989c4zDmHyZR8ph0cV"
+                src="/sec1.png"
               />
             </div>
 
@@ -281,7 +281,7 @@ export default function Home() {
                 width={"12"}
                 height={"6"}
                 layout="responsive"
-                src={todo1}
+                src="todo1.png"
               />
             </div>
           </div>
@@ -297,7 +297,7 @@ export default function Home() {
                 width={"25"}
                 height={"13"}
                 layout="responsive"
-                src={Salary2}
+                src="Salary2.png"
               />
             </div>
 
@@ -313,7 +313,7 @@ export default function Home() {
                 width={"20"}
                 height={"15"}
                 layout="responsive"
-                src={Birdy1}
+                src="/Birdy1.png"
               />
             </div>
             <div className="basis-1/3 flex-1">
@@ -323,7 +323,7 @@ export default function Home() {
                 width={"20"}
                 height={"15"}
                 layout="responsive"
-                src={birdy}
+                src="Birdy_bot.png"
               />
             </div>
           </div>
