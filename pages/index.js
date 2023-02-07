@@ -72,7 +72,12 @@ export default function Home() {
               {/* <p>I am a Master's student @ Carleton University.</p> */}
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-              I am a Masters student at Carleton University.
+              I am a recent graduate of Carleton University, with a Masters degree in Computer Science. 
+              </p>
+
+            <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
+              I have experience in programming languages such as Python, JAVA, C, C++, JavaScript, SQL, R, and object-oriented programming (OOP). 
+Additionally, I am proficient in databases such as Relational, NoSQL, PostgreSQL, MySQL, MongoDB, and Redis. My development experience includes technologies such as REST-API, HTML/CSS/JS, Node.js, React, Express, Sequelize(ORM), GraphQL, and Django. I also have experience with cloud technologies such as AWS, Microsoft Azure, and VM Ware.
             </p>
 
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
