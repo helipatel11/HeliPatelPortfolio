@@ -266,7 +266,7 @@ export default function Home() {
                 width={"10"}
                 height={"5"}
                 layout="responsive"
-                src={"https://drive.google.com/uc?export=view&id=1jZErrybdQp6YiL989c4zDmHyZR8ph0cV"}
+                src="https://drive.google.com/thumbnail?id=1jZErrybdQp6YiL989c4zDmHyZR8ph0cV"
               />
             </div>
 
