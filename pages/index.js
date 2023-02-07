@@ -7,7 +7,7 @@ import {
 } from "react-icons/ai";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
-import me from "../public/me.jpg";
+import me from "me.jpg";
 // import code from "../public/code.png";
 
 import Image from "next/image";
@@ -16,8 +16,8 @@ import web from "../public/Online-Website-No-Background.png"
 import Python from "../public/Python_Png_Egg.png"
 import Machine_learning from "../public/ML_pngegg.png"
 
-import Salary2 from "../public/Salary2.png"
-import HRS1 from "../public/HRS1.png"
+import Salary2 from "/Salary2.png"
+import HRS1 from "/HRS1.png"
 import HRS2 from "../public/HRS2.png"
 import HRS3 from "../public/HRS3.png"
 import HRS4 from "../public/HRS4.png"
@@ -179,7 +179,7 @@ export default function Home() {
                 width={"25"}
                 height={"17"}
                 layout="responsive"
-                src={HRS1}
+                src="/HRS1.png"
               />
             </div>
 
