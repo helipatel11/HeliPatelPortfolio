@@ -75,10 +75,10 @@ export default function Home() {
               I am a recent graduate of Carleton University, with a Masters degree in Computer Science. 
               </p>
 
-            <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-              I have experience in programming languages such as Python, JAVA, C, C++, JavaScript, SQL, R, and object-oriented programming (OOP). 
-Additionally, I am proficient in databases such as Relational, NoSQL, PostgreSQL, MySQL, MongoDB, and Redis. My development experience includes technologies such as REST-API, HTML/CSS/JS, Node.js, React, Express, Sequelize(ORM), GraphQL, and Django. I also have experience with cloud technologies such as AWS, Microsoft Azure, and VM Ware.
-            </p>
+//             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
+//               I have experience in programming languages such as Python, JAVA, C, C++, JavaScript, SQL, R, and object-oriented programming (OOP). 
+// Additionally, I am proficient in databases such as Relational, NoSQL, PostgreSQL, MySQL, MongoDB, and Redis. My development experience includes technologies such as REST-API, HTML/CSS/JS, Node.js, React, Express, Sequelize(ORM), GraphQL, and Django. I also have experience with cloud technologies such as AWS, Microsoft Azure, and VM Ware.
+//             </p>
 
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <a href="https://www.linkedin.com/in/helipatelhp/" ><AiFillLinkedin /></a>
@@ -154,18 +154,11 @@ Additionally, I am proficient in databases such as Relational, NoSQL, PostgreSQL
               From a young age, I have always been driven by a passion for solving problems and creating innovative solutions. I was fascinated by the world of technology and the endless possibilities it held.
               I pursued this passion by earning degrees in Computer Science and honing my skills through various projects and internships.
               My journey has been a constant learning experience, and I am grateful for every opportunity that has come my way.
-              {/* Since the beginning of my journey as a freelance designer and
-              developer, I've done remote work for
-              <span className="text-teal-500"> agencies </span>
-              consulted for <span className="text-teal-500">startups </span>
-              and collaborated with talanted people to create digital products
-              for both business and consumer use. */}
+      
             </p>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Through my projects, I have been able to apply my technical knowledge and problem-solving skills to real-world situations.
               From developing a web application for a local non-profit organization to automating a manual process for a large corporation, I have gained a deep understanding of what it takes to create a successful project.
-              {/* I offer from a wide range of services, including brand design,
-              programming and teaching. */}
             </p>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               As I continue to grow as a software developer, I am excited to share my work and journey with you.
