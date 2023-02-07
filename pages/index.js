@@ -7,7 +7,7 @@ import {
 } from "react-icons/ai";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
-import me from "me.jpg";
+// import me from "me.jpg";
 // import code from "../public/code.png";
 
 import Image from "next/image";
@@ -16,8 +16,8 @@ import web from "../public/Online-Website-No-Background.png"
 import Python from "../public/Python_Png_Egg.png"
 import Machine_learning from "../public/ML_pngegg.png"
 
-import Salary2 from "/Salary2.png"
-import HRS1 from "/HRS1.png"
+import Salary2 from "../public/Salary2.png"
+import HRS1 from "../public/HRS1.png"
 import HRS2 from "../public/HRS2.png"
 import HRS3 from "../public/HRS3.png"
 import HRS4 from "../public/HRS4.png"
@@ -81,7 +81,7 @@ export default function Home() {
 
             </div>
             <div className="mx-auto rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
-              <Image src={me} layout="fill" objectFit="cover" />
+              <Image src="/me.jpg" layout="fill" objectFit="cover" />
             </div>
           </div>
         </section>
