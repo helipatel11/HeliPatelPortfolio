@@ -12,9 +12,9 @@ import { useState } from "react";
 
 import Image from "next/image";
 
-import web from "../public/Online-Website-No-Background.png"
-import Python from "../public/Python_Png_Egg.png"
-import Machine_learning from "../public/ML_pngegg.png"
+// import web from "../public/Online-Website-No-Background.png"
+// import Python from "../public/Python_Png_Egg.png"
+// import Machine_learning from "../public/ML_pngegg.png"
 
 // import Salary2 from "../public/Salary2.png"
 // import HRS1 from "../public/HRS1.png"
@@ -98,7 +98,7 @@ export default function Home() {
           </div>
           <div className="lg:flex gap-10">
             <div className="text-center shadow-lg p-10 rounded-xl my-10  dark:bg-white flex-1">
-              <Image src={web} width={100} height={100} />
+              <Image src="/Online-Website-No-Background.png" width={100} height={100} />
               <h3 className="text-lg font-medium pt-8 pb-2  ">
                 Web
               </h3>
@@ -113,7 +113,7 @@ export default function Home() {
               <p className="text-gray-800 py-1">Indesign</p> */}
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
-              <Image src={Python} width={100} height={100} />
+              <Image src="/Python_Png_Egg.png" width={100} height={100} />
               <h3 className="text-lg font-medium pt-8 pb-2 ">
                 Python
               </h3>
@@ -128,7 +128,7 @@ export default function Home() {
               <p className="text-gray-800 py-1">Indesign</p> */}
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
-              <Image src={Machine_learning} width={100} height={100} />
+              <Image src="/ML_pngegg.png" width={100} height={100} />
               <h3 className="text-lg font-medium pt-8 pb-2 ">Machine Learning</h3>
               {/* <p className="py-2">
                 Are you interested in feedback for your current project? I can
